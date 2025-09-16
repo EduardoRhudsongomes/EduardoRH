@@ -41,3 +41,4 @@ while True:
         cabeçalho('\033[31mERRO! digite uma opção valida\033[m')
 
     time.sleep(2)
+    # falta opção de deletar usuario
